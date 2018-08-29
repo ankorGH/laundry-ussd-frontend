@@ -1,0 +1,17 @@
+#header{
+    background-color: blue;
+    height:20vh;
+    text-align:center;
+    color:#fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#header h3{
+    font-size: 32px;
+    padding-top: 25px;
+}
+
+#header span{
+    padding-bottom: 25px;
+}
